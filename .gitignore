@@ -1,0 +1,55 @@
+# Maven
+/.mvn/
+/target/
+/.idea/
+/*.iml
+
+# Gradle
+.gradle/
+/build/
+
+# Arquivos de dependências
+/.classpath
+/.project
+/.settings/
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+
+# Eclipse
+/.eclipse/
+*.log
+*.bak
+*.swp
+
+# IntelliJ
+/.idea/
+/*.iml
+/.idea_modules/
+
+# Arquivos do sistema operacional
+*.swp
+*~
+
+# Arquivos de build
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Arquivos de configuração do Spring
+/application.properties
+/application.yml
+
+# Arquivos de configuração do Spring Boot (se estiver usando)
+/target/*.jar
+/.mvn/wrapper/maven-wrapper.properties
+
+# Diretório de cache de dependências (caso use o Maven ou Gradle)
+/.m2/
+/.gradle/
+
+# Outros arquivos temporários
+*.log
